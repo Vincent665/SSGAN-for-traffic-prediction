@@ -1,0 +1,6 @@
+Best trial for pred_len=96:
+Trial #16
+Loss: 0.20657979004523333
+Config: {'dmodel': 128, 'DataEmbedding': 64, 'd_state': 256, 'num_channels': 64, 'features': 64, 'DropoutG': 0.01, 'DropoutD': 0.1, 'kernel_sizes': [3, 5, 7]}
+
+
